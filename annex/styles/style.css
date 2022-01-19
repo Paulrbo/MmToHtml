@@ -161,3 +161,15 @@ ul li ul {
     text-decoration: none;
     color: #707070;
 }
+
+a {
+
+    text-decoration: none;
+    color: white;
+}
+
+/*design text titre page 3*/
+.Titre1{
+    margin: center;
+    
+}
